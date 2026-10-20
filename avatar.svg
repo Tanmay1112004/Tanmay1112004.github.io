@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Cloud Lab Buddy</title>
+  <desc id="desc">A friendly little robot with a cloud-shaped head, blue antenna, and tiny terminal screen.</desc>
+  <g stroke="#263746" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 28V17" fill="none"/><circle cx="80" cy="13" r="6" fill="#ffdc78"/>
+    <path d="M45 61c-8-2-14-9-14-18 0-10 8-18 18-18 4-12 15-20 28-20 16 0 28 12 30 27 11 1 19 10 19 21 0 11-9 20-20 20H49" fill="#fffefa"/>
+    <path d="M48 74h64l9 51c1 7-4 12-11 12H50c-7 0-12-5-11-12l9-51Z" fill="#cbdcff"/>
+    <path d="M59 91c4-5 9-5 13 0M88 91c4-5 9-5 13 0" fill="none"/>
+    <rect x="61" y="103" width="38" height="22" rx="5" fill="#fffefa"/>
+    <path d="m69 111 5 4-5 4m12 0h8" fill="none" stroke="#365ce8"/>
+    <path d="M41 94H28v22h13m78-22h13v22h-13" fill="#ffdf73"/>
+    <path d="M65 138v8m30-8v8m-37 0h14m16 0h14" fill="none"/>
+    <path d="m123 47 5-5m-3 18 8 1" fill="none" stroke="#365ce8"/>
+  </g>
+</svg>
