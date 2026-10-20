@@ -42,7 +42,6 @@ app.js       Mobile navigation, incident arcade, local/Gemini chat UI
 server.js    Static server and protected same-origin Gemini proxy
 favicon.svg Engineering-inspired favicon
 avatar.svg   Cloud-lab mascot
-tanmay-photo.jpg Tanmay’s profile photo
 resume.pdf   Tanmay’s Cloud/DevOps resume
 package.json Start and syntax-check commands
 ```
@@ -61,5 +60,4 @@ package.json Start and syntax-check commands
 - The chatbot does not have tools to provision infrastructure, inspect private repositories, or access AWS accounts.
 - The CloudPulse hero interaction is a browser-only architecture simulation; it does not call AWS or simulate measured uptime.
 - No API key is included in the repository. The server does not log prompts or upstream response bodies.
-- `avatar.svg` is the hand-drawn mascot used in the About section; Build, Debug, and Learn buttons change its short message.
-- Add the supplied portrait as `tanmay-photo.jpg` beside `index.html` to show it in the About section. The layout crops it to a close headshot on desktop and mobile.
+- `avatar.svg` is the illustrated cloud-lab mascot in the About section; Build, Debug, and Learn buttons change its message.
